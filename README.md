@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Luca Longinotti</h1>
 
-- 🎓 Graduated in **Computer Science and Engineering**  
+- 🎓 Graduated in **Computer Science and Engineering**
+
+- 📫 How to reach me **luca.longinotti@gmail.com**
+
+- 
 
 <!--
 **luca-longinotti/luca-longinotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
