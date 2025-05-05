@@ -1,5 +1,6 @@
-Hi 👋, I'm Luca Longinotti
-🎓 Graduated in **Computer Science and Engineering**  
+<h1 align="center">Hi 👋, I'm Giacomo Cassano</h1>
+
+- 🎓 Graduated in **Computer Science and Engineering**  
 
 <!--
 **luca-longinotti/luca-longinotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
