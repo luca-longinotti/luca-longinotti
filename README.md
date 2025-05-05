@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Giacomo Cassano</h1>
+<h1 align="center">Hi 👋, I'm Luca Longinotti</h1>
 
 - 🎓 Graduated in **Computer Science and Engineering**  
 
